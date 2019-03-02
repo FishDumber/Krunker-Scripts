@@ -1,0 +1,18 @@
+{
+	"name": "Krunker.io Model Swapper",
+	"version": "0.0.0",
+	"manifest_version": 2,
+	"description": "https://github.com/tehchy",
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"https://krunker.io/*",
+		"background"
+	],
+	"web_accessible_resources": [
+		"model.obj"
+	],
+	"background": {
+		"scripts": ["init.js"]
+	}
+}
