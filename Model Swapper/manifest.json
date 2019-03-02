@@ -10,7 +10,8 @@
 		"background"
 	],
 	"web_accessible_resources": [
-		"model.obj"
+		"*.obj", 
+		"*.png"
 	],
 	"background": {
 		"scripts": ["init.js"]

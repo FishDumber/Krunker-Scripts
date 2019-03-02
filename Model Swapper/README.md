@@ -3,4 +3,4 @@
 2. Drag and drop the this folder into that page
 
 # Choosing which file to replace
-1. Edit 'model' variable in init.js
+1. Edit 'replace' variable in init.js
